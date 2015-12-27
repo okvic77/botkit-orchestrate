@@ -1,0 +1,21 @@
+{
+  "name": "botkit-orchestrate",
+  "version": "0.0.1",
+  "description": "Use orchestrate as your storage for botkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "orchestrate": "^0.7.0"
+  },
+  "bugs": {
+    "url": "https://github.com/okvic77/botkit-orchestrate/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github:okvic77/botkit-orchestrate"
+  }
+}
